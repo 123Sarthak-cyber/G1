@@ -219,16 +219,29 @@ JUSTIFICATION FOR "YES" / JUSTIFICATION FOR "NO":
 
 ### Example 3: Neutral/Descriptive
 **Paragraph:** "Last quarter, the manufacturing sector reported a 2% increase in output while the service sector remained stable."
-Target Group(s): N/A
+
+**Threat Frame - NO**
+- Target Group(s): N/A
 - Why NO: Pure descriptive language without risk, vulnerability, or negative causal framing.
 - Why NOT: While neutrality differs from explicit threat, the absence of threat language and lack of framing economic outcomes negatively makes this NOT a threat frame.
 
 **Benefit Frame - NO**
-- Target Group(s): N/Aality differs from explicit threat, the absence of threat language and lack of framing economic outcomes negatively makes this NOT a threat frame.
-
-**Benefit Frame - NO**
+- Target Group(s): N/A
 - Why NO: Pure descriptive language without growth framing, opportunity framing, or positive value assignment. "Increase" is reported factually, not framed as an advantage.
 - Why NOT: While neutral reporting could potentially be interpreted as implicitly positive, active benefit framing (improvement, opportunity, advantage language) is absent.
+
+### Example 4: Benefit Frame ONLY
+**Paragraph:** "Green energy investments create 150,000 new high-wage jobs and position the country as a leader in renewable technology markets, generating long-term prosperity and strengthening competitive advantage globally."
+
+**Threat Frame - NO**
+- Target Group(s): N/A
+- Why NO: Absent any negative language, risk framing, vulnerability, or harm language. The paragraph contains no discussion of losses, dangers, or economic threats.
+- Why NOT: While green energy policies could theoretically displace fossil fuel workers (not mentioned here), this paragraph presents only positive outcomes, with no offsetting threat framing.
+
+**Benefit Frame - YES**
+- Target Group(s): Workers, national economy, businesses/industries, global competitiveness
+- Why YES: Contains explicit benefit markers ("create jobs," "new high-wage jobs," "leader," "prosperity," "strengthening competitive advantage") tied to positive economic outcomes (job creation, market leadership, economic growth, competitive strength).
+- Why NOT: Without any offsetting threat language, this is unambiguously framed as a benefit scenario. Focus is entirely on opportunities and gains.
 
 ---
 
